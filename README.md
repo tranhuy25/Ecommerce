@@ -2,7 +2,7 @@
 
 🚀 ICN Lab | Passionate Developers & Researchers
 
-👋 Hello everyone! We are a group of passionate developers and researchers, including Tran Van Huy and Nguyen Nguyen Hao, members of ICN Lab under the guidance of Assoc. Prof. Hoang Trong Minh.
+👋 Hello everyone! We are a group of passionate developers and researchers this is project is by Tran Van Huy and  members of ICN Lab under the guidance of Assoc. Prof. Hoang Trong Minh.
 
 🛠️ Technologies We Work With:
 
