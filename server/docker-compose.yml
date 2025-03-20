@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  # PostgreSQL service
+  postgres:
+    image: postgres:13
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "${DB_PORT}:5432"
+    networks:
+      - app-network
+
+  # App service (Node.js, NestJS, etc.)
+  app:
+    build: .
+    container_name: ecommerence
+    environment:
+      DB_HOST: postgres-db
+      DB_PORT: 5432
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_NAME: ${DB_NAME}
+      NODE_ENV: development
+    ports:
+      - "4000:4000"  
+    depends_on:
+      - postgres
+    networks:
+      - app-network
+
+# Define a network for app communication
+networks:
+  app-network:
+    driver: bridge
+
+# Volumes to persist PostgreSQL data
+volumes:
+  postgres-data:

@@ -1,0 +1,16 @@
+2025-03-18 00:48:33,505 - INFO - ------Log file --------
+2025-03-18 00:52:19,996 - INFO - ====== WebDriver manager ======
+2025-03-18 00:52:20,342 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:52:20,553 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:52:20,761 - INFO - There is no [linux64] chromedriver "134.0.6998.88" for browser google-chrome "134.0.6998" in cache
+2025-03-18 00:52:20,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:52:21,265 - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-18 00:52:21,267 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/linux64/chromedriver-linux64.zip
+2025-03-18 00:52:21,267 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/linux64/chromedriver-linux64.zip
+2025-03-18 00:52:21,356 - INFO - Driver downloading response is 200
+2025-03-18 00:52:23,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:52:23,400 - INFO - Driver has been saved in cache [/home/nguyenngocduong/.wdm/drivers/chromedriver/linux64/134.0.6998.88]
+2025-03-18 00:59:01,539 - INFO - ====== WebDriver manager ======
+2025-03-18 00:59:01,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:59:01,965 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 00:59:02,142 - INFO - Driver [/home/nguyenngocduong/.wdm/drivers/chromedriver/linux64/134.0.6998.88/chromedriver-linux64/chromedriver] found in cache

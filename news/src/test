@@ -1,0 +1,30 @@
+//       -----------Cách làm cũ: mỗi model có thể thuộc nhiều module
+//        moduleA -> modelA
+//                -> modelB
+//        moduleB -> modelB
+
+//        ----------cách làm mới :mỗi model thuộc duy nhất 1 module,
+//        ----------cô lập logic, vì chỉ có duy nhất 1 module chứa model đó, cac module khác muốn dùng model phải gọi qua service
+//        ----------đảm bảo chỉ có duy nhat 1 service truy cập trực tiếp model đó
+//        moduleA -> modelA
+//                 -> serviceB -> modelB
+//        moduleB -> modelB
+
+//        A  = {1, 2}
+//        B = {2, 3} => A U b = {1, 2, 3}
+
+//        redis : bo nho trong ram
+//        "khoa-nguoi-dung": "so-lan-dang-nhap-nguoi-dung",
+
+
+// git init 
+// git commit -m "fix"
+// git add .
+// git branch -M demo
+// git push origin demo 
+// Intruder : kẻ xâm nhập 
+
+// git checout demo : sang nhánh mới rồi git pull ( tức là ở
+//  đây nếu chạy trên unbutu thì sẽ mặc định là nhánh 
+// main mà mình đga lưu code vào nhánh demo)
+//  rm-rf là xoá file trong git 

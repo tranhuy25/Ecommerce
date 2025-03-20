@@ -1,0 +1,124 @@
+id,name,slug,description,isNew,isActive,isPopular,createdDate,updatedDate,catergoryID
+0,iPhone 16 Pro Max (256GB) - Chính hãng VN/A,iphone-16-pro-max,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+1,iPhone 16 (128GB) - Chính hãng VN/A,iphone-16,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+2,Điện thoại iPhone 16e (128GB) - Chính hãng VN/A,iphone-16e-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+3,Điện thoại iPhone 16e (512GB) - Chính hãng VN/A,iphone-16e-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+4,Điện thoại iPhone 16e (256GB) - Chính hãng VN/A,iphone-16e-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+5,Điện thoại iPhone 16 Pro - Chính hãng VN/A,iphone-16-pro,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+6,iPhone 16 Plus (128GB) - Chính hãng VN/A,iphone-16-plus,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+7,iPhone 16 Pro Max (512GB) - Chính hãng VN/A,iphone-16-pro-max-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+8,iPhone 16 (256GB) - Chính hãng VN/A,iphone-16-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+9,iPhone 16 Pro (256GB) - Chính hãng VN/A,iphone-16-pro-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+10,iPhone 16 Plus (256GB) - Chính hãng VN/A,iphone-16-plus-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+11,iPhone 16 Pro (512GB) - Chính hãng VN/A,iphone-16-pro-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+12,iPhone 16 Plus (512GB) - Chính hãng VN/A,iphone-16-plus-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+13,iPhone 16 Pro Max (1TB) - Chính hãng VN/A,iphone-16-pro-max-1tb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+14,iPhone 16 (512GB) - Chính hãng VN/A,iphone-16-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+15,iPhone 16 Pro (1TB) - Chính hãng VN/A,iphone-16-pro-1tb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+16,Điện thoại iPhone 15 Pro Max (256GB) - Chính hãng VN/A,apple-iphone-15-pro-max-256gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+17,Điện thoại iPhone 15 Pro Max (512GB) - Chính hãng VN/A,apple-iphone-15-pro-max-512gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+18,Điện thoại iPhone 15 Pro Max (1TB) - Chính hãng VN/A,apple-iphone-15-pro-max-1tb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+19,Điện thoại iPhone 15 Pro (128GB) - Chính hãng VN/A,apple-iphone-15-pro-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+20,Điện thoại iPhone 15 Pro (1TB) - Chính hãng VN/A,apple-iphone-15-pro-1tb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+21,Điện thoại iPhone 15 Plus (256GB) - Chính hãng VN/A,apple-iphone-15-plus-256gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+22,Điện thoại iPhone 15 Plus (512GB) - Chính hãng VN/A,apple-iphone-15-plus-512gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+23,Điện thoại iPhone 15 Plus (128GB) - Chính hãng VN/A,apple-iphone-15-plus-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+24,Điện thoại iPhone 15 (128GB) - Chính hãng VN/A,apple-iphone-15-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+25,Điện thoại iPhone 15 (256GB) - Chính hãng VN/A,apple-iphone-15-256gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+26,Điện thoại iPhone 15 (512GB) - Chính hãng VN/A,apple-iphone-15-512gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+27,Điện thoại iPhone 11 (128GB) - Chính hãng VN/A,iphone-11-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+28,Điện thoại iPhone 13 (128GB) - Chính hãng VN/A,apple-iphone-13-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+29,Điện thoại iPhone 14 (128GB) - Chính hãng VN/A,apple-iphone-14-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+30,Điện thoại iPhone 14 Plus (128GB) - Chính hãng VN/A,apple-iphone-14-plus-128gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+31,Điện thoại iPhone 13 (256GB) - Chính hãng VN/A,apple-iphone-13-256gb-chinh-hang-vn-a,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,1
+32,Samsung Galaxy Z Fold6 12GB/512GB,samsung-galaxy-z-fold6-12gb-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+33,Điện thoại Samsung Galaxy S25 - 12GB/256GB,samsung-galaxy-s25,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+34,Điện thoại Samsung Galaxy S25 Plus - 12GB/256GB,samsung-galaxy-s25-plus,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+35,Điện thoại Samsung Galaxy S25 - 12GB/512GB,samsung-galaxy-s25-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+36,Điện thoại Samsung Galaxy S25 Plus - 12GB/512GB,samsung-galaxy-s25-plus-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+37,Điện thoại Samsung Galaxy S25 Ultra - 12GB/512GB,samsung-galaxy-s25-ultra-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+38,Điện thoại Samsung Galaxy S25 Ultra - 12GB/1TB,samsung-galaxy-s25-ultra-1tb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+39,Điện thoại Samsung Galaxy S25 Ultra - 12GB/256GB (BHĐT),samsung-galaxy-s25-ultra-12gb-256gb-bhdt,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+40,Điện thoại Samsung Galaxy S25 Ultra - 12GB/256GB,samsung-galaxy-s25-ultra,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+41,Samsung Galaxy Z Fold6 12GB/1TB,samsung-galaxy-z-fold6-12gb-1tb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+42,Samsung Galaxy Z Flip6 12GB/256GB,samsung-galaxy-z-flip6,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+43,Samsung Galaxy Z Flip6 12GB/512GB,samsung-galaxy-z-flip6-12gb-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+44,Samsung Galaxy M54 5G 8GB/256GB,samsung-galaxy-m54-5g-8gb-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+45,Samsung Galaxy A06 4GB/128GB,samsung-galaxy-a06-4gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+46,Samsung Galaxy S24 FE 8GB/128GB,samsung-galaxy-s24-fe-8gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+47,Điện thoại Samsung Galaxy M15 5G 4GB/128GB,samsung-galaxy-m15-5g-4gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+48,Samsung Galaxy Z Fold6 12GB/256GB (BHĐT),samsung-galaxy-z-fold6-12gb-256gb-bhdt,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+49,Samsung Galaxy Z Fold6 12GB/256GB,samsung-galaxy-z-fold6,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+50,Điện thoại Samsung Galaxy A05 - 4GB/64GB,samsung-galaxy-a05-4gb-64gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+51,Điện Thoại AI - Samsung Galaxy S24 - 8GB/512GB - Chính hãng,samsung-galaxy-s24-8gb-512gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+52,Điện Thoại AI - Samsung Galaxy S24 Ultra - 12GB/256GB - Chính hãng,samsung-galaxy-s24-ultra-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+53,Điện Thoại AI - Samsung Galaxy S24 Ultra - 12GB/512GB - Chính hãng,samsung-galaxy-s24-Ultra-12gb-512gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+54,Điện Thoại AI - Samsung Galaxy S24 Ultra - 12GB/1TB - Chính hãng,samsung-galaxy-s24-Ultra-12gb-1tb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+55,Điện Thoại AI - Samsung Galaxy S24 Plus - 12GB/256GB - Chính Hãng,samsung-galaxy-s24-plus-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+56,Điện thoại Samsung Galaxy A35 - 8GB/128GB,samsung-galaxy-a35-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+57,Samsung Galaxy S24 Ultra - 12GB/256GB (BHĐT),samsung-galaxy-s24-ultra-chinh-hang-bhdt,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+58,Điện thoại Samsung Galaxy A55 - 8GB/128GB,samsung-galaxy-a55-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+59,Samsung Galaxy A16 5G 8GB/128GB,samsung-galaxy-a16-5g-8gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+60,Điện thoại Samsung Galaxy S23 FE 5G 8GB/128GB,samsung-galaxy-s23-fe-5g-8gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+61,Samsung Galaxy A25 5G - 6GB/128GB - Chính hãng,samsung-a25-5G-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+62,Điện thoại Samsung Galaxy Z Flip5 8GB/256GB,samsung-galaxy-z-flip5-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+63,Samsung Galaxy A15 - 8GB/128GB - Chính hãng,samsung-a15-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+64,Điện thoại Samsung Galaxy A05S - 4GB/128GB,samsung-galaxy-a05s-4gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+65,Samsung Galaxy A16 4GB/128GB,samsung-galaxy-a16-4gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,2
+66,Điện thoại Xiaomi 15 12GB/256GB,xiaomi-15,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+67,Điện thoại Xiaomi 15 Ultra 16GB/512GB,xiaomi-15-ultra,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+68,Xiaomi Redmi Note 14 6GB/128GB,redmi-note-14,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+69,Xiaomi Redmi Note 14 Pro+ 5G 8GB/256GB,redmi-note-14-pro-plus-5g,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+70,Điện thoại Xiaomi Redmi 12 4GB/128GB,xiaomi-redmi-12-4gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+71,Điện thoại Xiaomi Redmi 12 8GB/128GB,xiaomi-redmi-12-8gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+72,Điện thoại Xiaomi Redmi 14C 4GB/128GB,xiaomi-redmi-14c-4gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+73,Xiaomi 14 Ultra,xiaomi-14-ultra,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+74,Xiaomi 14T 12GB/512GB,xiaomi-14t,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+75,Điện thoại Xiaomi 14T Pro 12GB/512GB,xiaomi-14t-pro-12gb-512gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+76,Điện thoại Xiaomi 14 (12GB/256GB),xiaomi-14-12gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+77,POCO X6 5G (8GB/256GB) - Chính hãng,poco-x6-5g-8gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+78,Điện thoại Redmi Note 13 (6GB/128GB),redmi-note-13-6gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+79,Điện thoại Redmi Note 13 Pro+ 5G (8GB/256GB),redmi-note-13-pro-plus-8gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+80,Điện thoại Xiaomi 13T (12GB/256GB),xiaomi-13t-12gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+81,Điện thoại Redmi A3 (4GB/128GB),redmi-a3-4gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+82,Điện thoại Redmi Note 12 (4GB/128GB),redmi-note-12-4gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+83,Điện thoại Redmi Note 12 Pro 5G (8GB/256GB),redmi-note-12-pro-5g-8gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+84,Điện thoại Redmi Note 11 Pro 5G (8GB/128GB),redmi-note-11-pro-5g-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+85,POCO X6 5G (12GB/256GB),poco-x6-5g-12gb-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,3
+86,OPPO Reno13 F 5G 12GB/256GB,oppo-reno13-f-5g-12gb-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+87,OPPO Reno13 F 8GB/256GB,oppo-reno13-f,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+88,Điện thoại OPPO Find N3 (16GB/512GB),oppo-find-n3-16gb-512gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+89,Điện thoại OPPO Find N3 Flip (12GB/256GB),oppo-find-n3-flip-12gb-256gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+90,Điện thoại OPPO A17K (3GB/64GB),oppo-a17k-3gb-64gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+91,Oppo A77s 8GB/128GB - Chính hãng,oppo-a77s-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+92,Điện thoại OPPO Reno10 5G (8GB/128GB),oppo-reno10-5g-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+93,Điện thoại OPPO Reno10 5G (8GB/256GB),oppo-reno10-5g-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+94,OPPO A18 4GB/64GB,oppo-a18-4gb-64gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+95,Điện thoại OPPO A38 6GB/128GB,oppo-a38-6gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+96,Điện thoại OPPO Reno12 5G (12GB/256GB),oppo-reno12-5g,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+97,OPPO A79 5G 8GB/256GB,oppo-a79-5g-8gb-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+98,Điện thoại OPPO A18 4GB/128GB,oppo-a18-4gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+99,Điện thoại OPPO A58 (6GB/128GB),oppo-a58-6gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+100,Điện thoại OPPO Find N2 Flip,oppo-find-n2-flip,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+101,OPPO A3 8GB/256GB,oppo-a3-8gb-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+102,OPPO A3 6GB/128GB,oppo-a3-6gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+103,Điện thoại OPPO Reno12 F 5G (8GB/256GB),oppo-reno12-f-5g,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+104,Điện thoại OPPO A58 8GB/128GB,oppo-a58-8gb-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,4
+105,Vivo Y03T 4/128GB - Chính hãng,vivo-y03t-4-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+106,Vivo Y100 8/256GB - Chính hãng,vivo-y100-8-256gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+107,Vivo Y19S 8/128GB - Chính hãng,vivo-y19s-8-128gb,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+108,Vivo Y18s 6/128GB- Chính hãng,vivo-y18s-6-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+109,Vivo Y03 4/64GB- Chính hãng,vivo-y03-4-64gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+110,Điện thoại Vivo Y17s 4GB/128GB,vivo-y17s-4gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+111,Điện thoại Vivo Y36 8GB/128GB,vivo-y36-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+112,Vivo Y35 8GB/128GB - Chính hãng,vivo-y35-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+113,Vivo V25 5G 8GB/128GB - Chính hãng,vivo-v25-5g-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+114,Vivo Y22s 8GB/128GB - Chính hãng,vivo-y22s-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+115,Điện thoại Vivo T1 5G,vivo-t1-5g-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+116,Điện thoại Vivo T1X 8GB/128GB,vivo-t1x-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+117,Điện thoại Vivo T1X 4GB/64GB,vivo-t1x-4g-64g-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+118,Điện thoại Vivo V29e - 5G,vivo-v29e-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+119,Điện thoại vivo V27e,vivo-v27e-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+120,Vivo V25e 4G 8GB/128GB - Chính hãng,vivo-v25e-4g-8gb-128gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+121,Vivo Y02s - 3GB/32GB - Chính hãng,vivo-y02s-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5
+122,Vivo Y03T 4/64GB,vivo-y03t-4-64gb-chinh-hang,,True,True,True,2025-03-02 06:15:49.679538,2025-03-02 06:15:49.680074,5

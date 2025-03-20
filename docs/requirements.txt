@@ -1,0 +1,5 @@
+langchain_google_genai
+langchain_openai
+google-genai
+selenium
+beautifulsoup4

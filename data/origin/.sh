@@ -1,0 +1,1 @@
+file này chính là database của hệ thống khi đã được xử lý dữ liệu 

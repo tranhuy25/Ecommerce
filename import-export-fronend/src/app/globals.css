@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .style-button{
+    @apply bg-blue-700 rounded-lg p-4 text-white font-bold hover:bg-white hover:text-blue-500 hover:shadow-lg;
+  }
+  .text-shadow {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+  }
+  .name-data-inventory{
+    @apply border border-blue-400 p-2 text-blue-800;
+  }
+  .data-inventory{
+    @apply border border-blue-400 p-2 text-center;
+  }
+  .box-input-export{
+    @apply border border-blue-400 p-2 rounded w-full;
+  }
+  .title-form{
+    @apply text-2xl font-bold mb-4 text-center text-blue-600;
+  }
+  .title-input{
+    @apply block mb-1 font-bold text-blue-600;
+  }
+}

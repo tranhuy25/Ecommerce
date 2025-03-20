@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+.chatbot-popup {
+    display: none; /* Ẩn mặc định */
+    position: fixed; /* Đặt vị trí cố định */
+    bottom: 0; /* Cách nút x một khoảng */
+    right: 1%;
+    bottom: 5%; /* Cách bên phải một khoảng */
+    width: 350px; /* Chiều rộng của chatbot */
+    background: #fff; /* Màu nền */
+    border-radius: 15px; /* Bo góc */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+    overflow: hidden; /*Ẩn phần thừa*/
+    /* transition: all 0.3s ease;  */
+    margin-bottom: 1%;
+    z-index:100; /* Đặt lớp cao nhất */
+}
+.chat-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: #7828C8;
+}
+.chat-header .header-infor{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.header-infor .chatbot-logo{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    padding: 6px;
+    background: #fff;
+    fill: #7828C8;
+    flex-shrink: 0;
+}
+.header-infor .logo-text{
+    color: #fff;
+    font-size: 1.31rem;
+    font-weight: 600;
+}
+.chat-header #close-chatbot{
+    border: none;
+    color: #fff;
+    font-size: 1.9rem;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    padding-top: 2px;
+    margin-right: -10px;
+    background: none;
+    border-radius: 50%;
+    transition: 0.2s ease;
+}
+.chat-header #close-chatbot:hover{
+    background: #6310b5;
+}
+.chatbot-body{
+    padding: 25px 22px;
+    height: 360px;
+    overflow-y: auto;
+    gap: 20px;
+    display: flex;
+    margin-bottom: 82px;
+    flex-direction: column;
+}
+.chatbot-body .message{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.chatbot-body .bot-message .bot-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    padding: 6px;
+    background: #7828C8;
+    fill: #fff;
+    flex-shrink: 0;
+    margin-bottom: 2px;
+    align-self: flex-end;
+}
+.chatbot-body .message .message-text{
+    padding: 12px 16px;
+    max-width: 75%;
+    font-size: 0.95rem;
+    background: #f1f1f1;
+    border-radius: 15px;
+}
+.chatbot-body .user-message{
+    flex-direction: column;
+    align-items: flex-end;
+}
+.chatbot-body .user-message .message-text{
+    background: #7828C8;
+    color: #fff;
+    border-radius: 13px 13px 0 13px;
+    margin-bottom: 2px;
+}
+.chatbot-body .bot-message .message-text{
+    border-radius: 13px 13px 13px 0;
+}
+.chatbot-body .user-message .attachment{
+    width: 50%;
+    margin-top: -7px;
+    border-radius: 13px 3px 13px 13px;
+}
+.chatbot-body .bot-message .thinking .message-text{
+    padding: 2px 16px;
+}
+.chatbot-body .bot-message .thinking-indicator{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.chatbot-body .bot-message .thinking-indicator .dot{
+    width: 7px;
+    height: 7px;
+    opacity: 0.7;
+    border-radius: 50%;
+    background: #7828C8;
+    animation: dotPulse  1.5s ease-in-out infinite;
+}
+.chatbot-body .bot-message .thinking-indicator .dot:nth-child(1){
+    animation-delay: 0.2s;
+}
+.chatbot-body .bot-message .thinking-indicator .dot:nth-child(2){
+    animation-delay: 0.3s;
+}
+.chatbot-body .bot-message .thinking-indicator .dot:nth-child(3){
+    animation-delay: 0.4s;
+}
+@keyframes dotPulse {
+    0%,44% {
+        transform: translateY(0);
+    }
+    28% {
+        opacity: 0.4;
+        transform: translateY(-4px);
+    }
+    44% {
+        opacity: 0.2;
+    }
+
+}
+.chatbot-footer{
+  position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    padding: 15px 22px 20px;
+}
+.chatbot-footer .chat-form{
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    border-radius: 32px;
+    outline: 1px solid #CCCCE5;
+}
+.chatbot-footer .chat-form:focus-within{
+    outline: 2px solid #7828C8;
+}
+.chat-form .message-input{
+    width: 100%;
+    padding: 14px 0px 13px 18px;
+    height: 47px;
+    border: none;
+    outline: none;
+    font-size: 0.95rem;
+    resize: none;
+    border-radius: inherit;
+}
+.chat-form .chat-controls{
+    display: flex;
+    gap: 3px;
+    padding-right: 6px;
+    align-items: center;
+    align-self: flex-end;
+    height: 47px;
+}
+.chat-form .chat-controls button{
+    width: 35px;
+    height: 35px;
+    font-size: 1.15rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    color: #7828C8;
+    transition: 0.2s ease;
+}
+.chat-form .chat-controls #send-message{
+    background: #7828C8;
+    color: #fff;
+    display: none;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 1.3rem;
+}
+.chat-form .message-input:valid~.chat-controls #send-message{
+    display: block;
+}
+
+.chat-form .chat-controls #send-message:hover{
+    background: #6310b5;
+}
+.chat-form .chat-controls button:hover{
+    background: #f1f1f1;
+}
+.chat-form .file-upload-wrapper {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+/* Định vị ảnh và nút */
+.chat-form .file-upload-wrapper :where(img, button) {
+    position: absolute;
+}
+
+/* Ảnh đại diện khi có file */
+.chat-form .file-upload-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    visibility: hidden; /* Chỉ ẩn chứ không loại bỏ */
+}
+
+/* Nút cancel */
+.chat-form .file-upload-wrapper #file-cancel {
+    color: #ff0000;
+    background: #fff;
+    width: 16px;
+    height: 16px;
+    font-size: 12px;
+    top: 4px;
+    right: 4px;
+    border-radius: 50%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+/* Ẩn nút attach khi đã có ảnh */
+.chat-form .file-upload-wrapper.file-uploaded #file-upload {
+    display: none !important;
+}
+
+/* Hiển thị ảnh khi có file */
+.chat-form .file-upload-wrapper.file-uploaded img {
+    visibility: visible; /* Giữ layout nhưng hiển thị lại */
+}
+
+/* Hiển thị nút cancel khi hover */
+.chat-form .file-upload-wrapper.file-uploaded:hover #file-cancel {
+    display: flex;
+}
+#toggle-chat {
+    position: fixed;
+    bottom: 4%;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #7828C8;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+    z-index: 100;
+}
+
+#toggle-chat:hover {
+    background-color: #6310b5;
+}
+.chatbot-popup {
+    display: none; /* Ẩn mặc định */
+}

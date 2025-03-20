@@ -1,0 +1,34 @@
+
+config file app.modeule ---> thay đổi tên password ... của database ta lưu trong local 
+sau khi setup xog thì ta chạy 
+
+git init 
+git clone ...
+git pull origin main
+
+chạy backend 
+
+npm run start:dev
+
+//-----> Hàng Hóa  có quan hệ N-N với Phiếu nhập  và Phiếu xuất  thông qua bảng chi tiết (Bill xuất và bill nhập ).
+
+//-----> Phiếu nhập  và Phiếu xuất  liên kết với nhà cung cấp  và Đại lý  để lưu thông tin nhà cung cấp và đại lý.
+
+Khi nhân viên chọn đại lý hoặc hàng hóa, hệ thống sẽ truy vấn theo tên và đưa ra danh sách phù hợp 
+
+từ các bảng Đạ Lý  và Hàng Hóa 
+
+
+//------------------------------------------------------------------------
+
+Các chức năng chính:
+
+1 , Tìm kiếm đại lý con 
+
+2 ,Tìm kiếm hàng hóa
+
+3 ,Thêm mới đại lý con (nếu chưa có trong hệ thống)
+
+4 ,Lập phiếu xuất hàng
+
+5 ,Xử lý xuất hàng (đảm bảo số lượng trong kho đủ để xuất)
